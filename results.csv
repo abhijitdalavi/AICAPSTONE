@@ -1,0 +1,546 @@
+,user_input,retrieved_contexts,response,reference,context_precision,context_recall,faithfulness,answer_relevancy
+0,Is tiago ev best in market?,"['54', '54', '164', '164']","Unfortunately, the provided context does not mention ""Tiago EV"" or its performance in the market. The retrieved context only mentions ""Tiago"" which is likely a car model, but it doesn't provide information on an ""EV"" variant.",54 54 164 164,0.0,1.0,0.8,0.0
+1,What should be considered when charging an tiago EV?,"['Slow / AC Charging \nIt takes about 6.9**Hrs. to 8.7** Hrs. at  \nroom temperature and normal operating  \nconditions (refer the specs table in previ -\nous page) for the EV to charge from 10% \nto 100% with Slow Charging. The charging \ngun will be locked after switching on the  \nAC supply. \nAC Charging (WMU) \nApproximately 2.6** Hrs. to 3.6**Hrs. (time \nfor a 0 to 100% charge, may increase  \nbasis factors such as ambient tempera -\nture, electrical load on meter, vehicle  \nusage during and before charging, air con-\nditioning usage during charging, aux loads \netc.) \nFast / DC Charging \nTiago EV can be fast charged using any  \nfast charging station or equipment compli-\nant to Combined Charging System stan -\ndard having Type 2 connector (CCS Type \n2). It takes 58** minutes for the high volt-\nage battery to charge from 10% to 80% \nusing any CCS Type 2 fast charging sta -\ntion. The charging gun will be locked after \nswitching on the DC supply. \nPrecaution for Slow Charging', 'Slow / AC Charging \nIt takes about 6.9**Hrs. to 8.7** Hrs. at  \nroom temperature and normal operating  \nconditions (refer the specs table in previ -\nous page) for the EV to charge from 10% \nto 100% with Slow Charging. The charging \ngun will be locked after switching on the  \nAC supply. \nAC Charging (WMU) \nApproximately 2.6** Hrs. to 3.6**Hrs. (time \nfor a 0 to 100% charge, may increase  \nbasis factors such as ambient tempera -\nture, electrical load on meter, vehicle  \nusage during and before charging, air con-\nditioning usage during charging, aux loads \netc.) \nFast / DC Charging \nTiago EV can be fast charged using any  \nfast charging station or equipment compli-\nant to Combined Charging System stan -\ndard having Type 2 connector (CCS Type \n2). It takes 58** minutes for the high volt-\nage battery to charge from 10% to 80% \nusing any CCS Type 2 fast charging sta -\ntion. The charging gun will be locked after \nswitching on the DC supply. \nPrecaution for Slow Charging', '142\nsertion should be done after at least 10 \nseconds of removal of the charging  \ngun. \nOnce Slow/Fast charging is com -•\npleted, 90 seconds of time gap is re -\nquired before the vehicle can be\nstarted.\nOvercurrent \nand leakage current pro -•\ntections are given in the home charg -\ning box and charging gun. The RCBO\n(Residual \nCurrent Breaker with Over-\nCurrent) should always be in ON state\nduring \nslow charging use-case and\nthere \nshould be no error (Red) LEDs\non \nthe charging gun. In case any trip -\nping of RCBO is observed or error\nLEDs \nstart blinking on the Charging\ngun, \nplease contact TATA MOTORS\nAuthorized EV Service Centre.\nHome \ncharging box comes with a key•\nand \nlock. It is recommended to lock the\nbox \nduring overnight charge or when\nthe \ncharging box is not in use to avoid\nmisuse of the charging point.\nDo \nnot disengage/play around with the•\nPark \nbrake/hand brake while vehicle in\nfast charging condition. \nAdditional Driving Tips \nDrive Smoothly – Do not change the1.', '142\nsertion should be done after at least 10 \nseconds of removal of the charging  \ngun. \nOnce Slow/Fast charging is com -•\npleted, 90 seconds of time gap is re -\nquired before the vehicle can be\nstarted.\nOvercurrent \nand leakage current pro -•\ntections are given in the home charg -\ning box and charging gun. The RCBO\n(Residual \nCurrent Breaker with Over-\nCurrent) should always be in ON state\nduring \nslow charging use-case and\nthere \nshould be no error (Red) LEDs\non \nthe charging gun. In case any trip -\nping of RCBO is observed or error\nLEDs \nstart blinking on the Charging\ngun, \nplease contact TATA MOTORS\nAuthorized EV Service Centre.\nHome \ncharging box comes with a key•\nand \nlock. It is recommended to lock the\nbox \nduring overnight charge or when\nthe \ncharging box is not in use to avoid\nmisuse of the charging point.\nDo \nnot disengage/play around with the•\nPark \nbrake/hand brake while vehicle in\nfast charging condition. \nAdditional Driving Tips \nDrive Smoothly – Do not change the1.']","When charging an Tiago EV, consider locking the home charging box during overnight charge or when not in use to avoid misuse of the charging point. Additionally, ensure all safety precautions are taken while charging, including keeping the RCBO (Residual Current Breaker with Over-Current) always ON and no error (Red) LEDs on the charging gun.","Slow / AC Charging 
+It takes about 6.9**Hrs. to 8.7** Hrs. at  
+room temperature and normal operating  
+conditions (refer the specs table in previ -
+ous page) for the EV to charge from 10% 
+to 100% with Slow Charging. The charging 
+gun will be locked after switching on the  
+AC supply. 
+AC Charging (WMU) 
+Approximately 2.6** Hrs. to 3.6**Hrs. (time 
+for a 0 to 100% charge, may increase  
+basis factors such as ambient tempera -
+ture, electrical load on meter, vehicle  
+usage during and before charging, air con-
+ditioning usage during charging, aux loads 
+etc.) 
+Fast / DC Charging 
+Tiago EV can be fast charged using any  
+fast charging station or equipment compli-
+ant to Combined Charging System stan -
+dard having Type 2 connector (CCS Type 
+2). It takes 58** minutes for the high volt-
+age battery to charge from 10% to 80% 
+using any CCS Type 2 fast charging sta -
+tion. The charging gun will be locked after 
+switching on the DC supply. 
+Precaution for Slow Charging Slow / AC Charging 
+It takes about 6.9**Hrs. to 8.7** Hrs. at  
+room temperature and normal operating  
+conditions (refer the specs table in previ -
+ous page) for the EV to charge from 10% 
+to 100% with Slow Charging. The charging 
+gun will be locked after switching on the  
+AC supply. 
+AC Charging (WMU) 
+Approximately 2.6** Hrs. to 3.6**Hrs. (time 
+for a 0 to 100% charge, may increase  
+basis factors such as ambient tempera -
+ture, electrical load on meter, vehicle  
+usage during and before charging, air con-
+ditioning usage during charging, aux loads 
+etc.) 
+Fast / DC Charging 
+Tiago EV can be fast charged using any  
+fast charging station or equipment compli-
+ant to Combined Charging System stan -
+dard having Type 2 connector (CCS Type 
+2). It takes 58** minutes for the high volt-
+age battery to charge from 10% to 80% 
+using any CCS Type 2 fast charging sta -
+tion. The charging gun will be locked after 
+switching on the DC supply. 
+Precaution for Slow Charging 142
+sertion should be done after at least 10 
+seconds of removal of the charging  
+gun. 
+Once Slow/Fast charging is com -•
+pleted, 90 seconds of time gap is re -
+quired before the vehicle can be
+started.
+Overcurrent 
+and leakage current pro -•
+tections are given in the home charg -
+ing box and charging gun. The RCBO
+(Residual 
+Current Breaker with Over-
+Current) should always be in ON state
+during 
+slow charging use-case and
+there 
+should be no error (Red) LEDs
+on 
+the charging gun. In case any trip -
+ping of RCBO is observed or error
+LEDs 
+start blinking on the Charging
+gun, 
+please contact TATA MOTORS
+Authorized EV Service Centre.
+Home 
+charging box comes with a key•
+and 
+lock. It is recommended to lock the
+box 
+during overnight charge or when
+the 
+charging box is not in use to avoid
+misuse of the charging point.
+Do 
+not disengage/play around with the•
+Park 
+brake/hand brake while vehicle in
+fast charging condition. 
+Additional Driving Tips 
+Drive Smoothly – Do not change the1. 142
+sertion should be done after at least 10 
+seconds of removal of the charging  
+gun. 
+Once Slow/Fast charging is com -•
+pleted, 90 seconds of time gap is re -
+quired before the vehicle can be
+started.
+Overcurrent 
+and leakage current pro -•
+tections are given in the home charg -
+ing box and charging gun. The RCBO
+(Residual 
+Current Breaker with Over-
+Current) should always be in ON state
+during 
+slow charging use-case and
+there 
+should be no error (Red) LEDs
+on 
+the charging gun. In case any trip -
+ping of RCBO is observed or error
+LEDs 
+start blinking on the Charging
+gun, 
+please contact TATA MOTORS
+Authorized EV Service Centre.
+Home 
+charging box comes with a key•
+and 
+lock. It is recommended to lock the
+box 
+during overnight charge or when
+the 
+charging box is not in use to avoid
+misuse of the charging point.
+Do 
+not disengage/play around with the•
+Park 
+brake/hand brake while vehicle in
+fast charging condition. 
+Additional Driving Tips 
+Drive Smoothly – Do not change the1.",0.999999999975,0.9230769230769231,0.8,0.9568282396751525
+2,Features of tiago ev?,"['142\nsertion should be done after at least 10 \nseconds of removal of the charging  \ngun. \nOnce Slow/Fast charging is com -•\npleted, 90 seconds of time gap is re -\nquired before the vehicle can be\nstarted.\nOvercurrent \nand leakage current pro -•\ntections are given in the home charg -\ning box and charging gun. The RCBO\n(Residual \nCurrent Breaker with Over-\nCurrent) should always be in ON state\nduring \nslow charging use-case and\nthere \nshould be no error (Red) LEDs\non \nthe charging gun. In case any trip -\nping of RCBO is observed or error\nLEDs \nstart blinking on the Charging\ngun, \nplease contact TATA MOTORS\nAuthorized EV Service Centre.\nHome \ncharging box comes with a key•\nand \nlock. It is recommended to lock the\nbox \nduring overnight charge or when\nthe \ncharging box is not in use to avoid\nmisuse of the charging point.\nDo \nnot disengage/play around with the•\nPark \nbrake/hand brake while vehicle in\nfast charging condition. \nAdditional Driving Tips \nDrive Smoothly – Do not change the1.', '142\nsertion should be done after at least 10 \nseconds of removal of the charging  \ngun. \nOnce Slow/Fast charging is com -•\npleted, 90 seconds of time gap is re -\nquired before the vehicle can be\nstarted.\nOvercurrent \nand leakage current pro -•\ntections are given in the home charg -\ning box and charging gun. The RCBO\n(Residual \nCurrent Breaker with Over-\nCurrent) should always be in ON state\nduring \nslow charging use-case and\nthere \nshould be no error (Red) LEDs\non \nthe charging gun. In case any trip -\nping of RCBO is observed or error\nLEDs \nstart blinking on the Charging\ngun, \nplease contact TATA MOTORS\nAuthorized EV Service Centre.\nHome \ncharging box comes with a key•\nand \nlock. It is recommended to lock the\nbox \nduring overnight charge or when\nthe \ncharging box is not in use to avoid\nmisuse of the charging point.\nDo \nnot disengage/play around with the•\nPark \nbrake/hand brake while vehicle in\nfast charging condition. \nAdditional Driving Tips \nDrive Smoothly – Do not change the1.', 'the top (as shown in fig). Screw in\nand tighten \nthe tow hook in clockwise\ndirection.\nAfter towing, \nremove the towing hook•\nand press fit the cover properly.\nPlace the \ntowing hook in the vehicle•\ntool kit.\n WARNING\nDo not get under your vehicle after•\nit has been lifted by a tow truck.\nFor towing \na vehicle, the best way is•\nto use \na flatbed truck. Alternatively\nuse a \nrigid tow bar or cable as emer-\ngency.\nSwitch ‘ON’\n the hazard warning in -•\ndicators of both the vehicles to warn\nother road users.\nLimit the speed to 20 kmph.•\nIn case \nof brake failure, use the•\nparking brake \nto control the vehicle.\nFasten the \ntow rope or tow bar at•\nthe towing \neyes. Otherwise, the ve-\nhicle could be damaged.\nWhen towing, \npull away slowly and•\nsmoothly. \nIf the tractive power is too\nhigh, the \nvehicles could be dam -\naged.\nEMERGENCY AND BREAKDOWN ASSISTANCE\n179', 'the top (as shown in fig). Screw in\nand tighten \nthe tow hook in clockwise\ndirection.\nAfter towing, \nremove the towing hook•\nand press fit the cover properly.\nPlace the \ntowing hook in the vehicle•\ntool kit.\n WARNING\nDo not get under your vehicle after•\nit has been lifted by a tow truck.\nFor towing \na vehicle, the best way is•\nto use \na flatbed truck. Alternatively\nuse a \nrigid tow bar or cable as emer-\ngency.\nSwitch ‘ON’\n the hazard warning in -•\ndicators of both the vehicles to warn\nother road users.\nLimit the speed to 20 kmph.•\nIn case \nof brake failure, use the•\nparking brake \nto control the vehicle.\nFasten the \ntow rope or tow bar at•\nthe towing \neyes. Otherwise, the ve-\nhicle could be damaged.\nWhen towing, \npull away slowly and•\nsmoothly. \nIf the tractive power is too\nhigh, the \nvehicles could be dam -\naged.\nEMERGENCY AND BREAKDOWN ASSISTANCE\n179']","Unfortunately, the provided context does not mention features of a specific model, ""Tiago EV"". However, it appears to be related to general guidelines and safety tips for electric vehicles, including charging and towing procedures.","142
+sertion should be done after at least 10 
+seconds of removal of the charging  
+gun. 
+Once Slow/Fast charging is com -•
+pleted, 90 seconds of time gap is re -
+quired before the vehicle can be
+started.
+Overcurrent 
+and leakage current pro -•
+tections are given in the home charg -
+ing box and charging gun. The RCBO
+(Residual 
+Current Breaker with Over-
+Current) should always be in ON state
+during 
+slow charging use-case and
+there 
+should be no error (Red) LEDs
+on 
+the charging gun. In case any trip -
+ping of RCBO is observed or error
+LEDs 
+start blinking on the Charging
+gun, 
+please contact TATA MOTORS
+Authorized EV Service Centre.
+Home 
+charging box comes with a key•
+and 
+lock. It is recommended to lock the
+box 
+during overnight charge or when
+the 
+charging box is not in use to avoid
+misuse of the charging point.
+Do 
+not disengage/play around with the•
+Park 
+brake/hand brake while vehicle in
+fast charging condition. 
+Additional Driving Tips 
+Drive Smoothly – Do not change the1. 142
+sertion should be done after at least 10 
+seconds of removal of the charging  
+gun. 
+Once Slow/Fast charging is com -•
+pleted, 90 seconds of time gap is re -
+quired before the vehicle can be
+started.
+Overcurrent 
+and leakage current pro -•
+tections are given in the home charg -
+ing box and charging gun. The RCBO
+(Residual 
+Current Breaker with Over-
+Current) should always be in ON state
+during 
+slow charging use-case and
+there 
+should be no error (Red) LEDs
+on 
+the charging gun. In case any trip -
+ping of RCBO is observed or error
+LEDs 
+start blinking on the Charging
+gun, 
+please contact TATA MOTORS
+Authorized EV Service Centre.
+Home 
+charging box comes with a key•
+and 
+lock. It is recommended to lock the
+box 
+during overnight charge or when
+the 
+charging box is not in use to avoid
+misuse of the charging point.
+Do 
+not disengage/play around with the•
+Park 
+brake/hand brake while vehicle in
+fast charging condition. 
+Additional Driving Tips 
+Drive Smoothly – Do not change the1. the top (as shown in fig). Screw in
+and tighten 
+the tow hook in clockwise
+direction.
+After towing, 
+remove the towing hook•
+and press fit the cover properly.
+Place the 
+towing hook in the vehicle•
+tool kit.
+ WARNING
+Do not get under your vehicle after•
+it has been lifted by a tow truck.
+For towing 
+a vehicle, the best way is•
+to use 
+a flatbed truck. Alternatively
+use a 
+rigid tow bar or cable as emer-
+gency.
+Switch ‘ON’
+ the hazard warning in -•
+dicators of both the vehicles to warn
+other road users.
+Limit the speed to 20 kmph.•
+In case 
+of brake failure, use the•
+parking brake 
+to control the vehicle.
+Fasten the 
+tow rope or tow bar at•
+the towing 
+eyes. Otherwise, the ve-
+hicle could be damaged.
+When towing, 
+pull away slowly and•
+smoothly. 
+If the tractive power is too
+high, the 
+vehicles could be dam -
+aged.
+EMERGENCY AND BREAKDOWN ASSISTANCE
+179 the top (as shown in fig). Screw in
+and tighten 
+the tow hook in clockwise
+direction.
+After towing, 
+remove the towing hook•
+and press fit the cover properly.
+Place the 
+towing hook in the vehicle•
+tool kit.
+ WARNING
+Do not get under your vehicle after•
+it has been lifted by a tow truck.
+For towing 
+a vehicle, the best way is•
+to use 
+a flatbed truck. Alternatively
+use a 
+rigid tow bar or cable as emer-
+gency.
+Switch ‘ON’
+ the hazard warning in -•
+dicators of both the vehicles to warn
+other road users.
+Limit the speed to 20 kmph.•
+In case 
+of brake failure, use the•
+parking brake 
+to control the vehicle.
+Fasten the 
+tow rope or tow bar at•
+the towing 
+eyes. Otherwise, the ve-
+hicle could be damaged.
+When towing, 
+pull away slowly and•
+smoothly. 
+If the tractive power is too
+high, the 
+vehicles could be dam -
+aged.
+EMERGENCY AND BREAKDOWN ASSISTANCE
+179",0.0,0.5333333333333333,1.0,0.0
+3,How can I turn on Music?,"['146\nORVM FOLDING (if equipped) \nOption 1: Manual Folding \nORVMs can be folded or unfolded manu -\nally. This is applicable only for vehicles  \nwhich are not equipped with motorized  \nfolding provision. \nOption 2: Auto Folding by Smart Key \nWhen you lock the vehicle, ORVMs will be \nfolded automatically.  \nWhen you unlock the vehicle, ORVMs will \nbe unfolded automatically.  \nIn case to repeated usage, Mirror Fold -\ning/Un-folding will stop functioning and will \nbe re-activated after delay of 2 min. During \nthat period avoid repeated pressing of  \nSwitch. \nOption 3: Auto Folding by Knob \nTo fold / unfold the ORVMs, keep the Se-\nlector switch in center position (i.e. neither \n‘L’ nor ‘R, position) and then toggle down. \nThis will operate when the ignition switch  \nis in the “ACC” or “ON” position. \nOption 4: Rear View Mirror with Joy -\nstick Knob \nYou can adjust the outer rear view mirror  \nmanually by joy stick knob located in the  \ndriver’s and front passenger’s door panel.', '146\nORVM FOLDING (if equipped) \nOption 1: Manual Folding \nORVMs can be folded or unfolded manu -\nally. This is applicable only for vehicles  \nwhich are not equipped with motorized  \nfolding provision. \nOption 2: Auto Folding by Smart Key \nWhen you lock the vehicle, ORVMs will be \nfolded automatically.  \nWhen you unlock the vehicle, ORVMs will \nbe unfolded automatically.  \nIn case to repeated usage, Mirror Fold -\ning/Un-folding will stop functioning and will \nbe re-activated after delay of 2 min. During \nthat period avoid repeated pressing of  \nSwitch. \nOption 3: Auto Folding by Knob \nTo fold / unfold the ORVMs, keep the Se-\nlector switch in center position (i.e. neither \n‘L’ nor ‘R, position) and then toggle down. \nThis will operate when the ignition switch  \nis in the “ACC” or “ON” position. \nOption 4: Rear View Mirror with Joy -\nstick Knob \nYou can adjust the outer rear view mirror  \nmanually by joy stick knob located in the  \ndriver’s and front passenger’s door panel.', 'accelerate the vehicle to a speed is as per \ngear selected as below: \n3rd gear approx. 30Kmph to 80Kmph \n4th gear approx. 40kmph to 120Kmph \n5th gear approx. 50kmph to 140Kmph \nCruise Control Deactivating Switch \nThere are two ways to deactivate cruise  \ncontrol: \nApplying brake / clutch.•\nPress \ndeactivation switch on •\nSteering Wheel\nChanging The Set Cruise Speed \nThe set cruise speed can be adjusted  \nusing the switches ‘Speed increase/ Re -\nsume’ (to increase)  or ‘Speed de-\ncrease/Set’ (to decrease) on \nsteering wheel. \nThe speed increases and decreases on a \nsingle press.  \nThe changed speed will be shown on the  \nspeedometer.  \nKeeping the switch pressed increases or  \ndecreases the speed continuously till the  \nswitch is released or maximum/ minimum \nspeed limit for particular gear is reached.  \nThe set speed can also be increased by  \npressing the accelerator pedal till the de-\nsired speed is achieved and then pressing \nthe ‘SET’ button.', 'accelerate the vehicle to a speed is as per \ngear selected as below: \n3rd gear approx. 30Kmph to 80Kmph \n4th gear approx. 40kmph to 120Kmph \n5th gear approx. 50kmph to 140Kmph \nCruise Control Deactivating Switch \nThere are two ways to deactivate cruise  \ncontrol: \nApplying brake / clutch.•\nPress \ndeactivation switch on •\nSteering Wheel\nChanging The Set Cruise Speed \nThe set cruise speed can be adjusted  \nusing the switches ‘Speed increase/ Re -\nsume’ (to increase)  or ‘Speed de-\ncrease/Set’ (to decrease) on \nsteering wheel. \nThe speed increases and decreases on a \nsingle press.  \nThe changed speed will be shown on the  \nspeedometer.  \nKeeping the switch pressed increases or  \ndecreases the speed continuously till the  \nswitch is released or maximum/ minimum \nspeed limit for particular gear is reached.  \nThe set speed can also be increased by  \npressing the accelerator pedal till the de-\nsired speed is achieved and then pressing \nthe ‘SET’ button.']",I can't help with that as there is no information about turning on music in the provided context.,"146
+ORVM FOLDING (if equipped) 
+Option 1: Manual Folding 
+ORVMs can be folded or unfolded manu -
+ally. This is applicable only for vehicles  
+which are not equipped with motorized  
+folding provision. 
+Option 2: Auto Folding by Smart Key 
+When you lock the vehicle, ORVMs will be 
+folded automatically.  
+When you unlock the vehicle, ORVMs will 
+be unfolded automatically.  
+In case to repeated usage, Mirror Fold -
+ing/Un-folding will stop functioning and will 
+be re-activated after delay of 2 min. During 
+that period avoid repeated pressing of  
+Switch. 
+Option 3: Auto Folding by Knob 
+To fold / unfold the ORVMs, keep the Se-
+lector switch in center position (i.e. neither 
+‘L’ nor ‘R, position) and then toggle down. 
+This will operate when the ignition switch  
+is in the “ACC” or “ON” position. 
+Option 4: Rear View Mirror with Joy -
+stick Knob 
+You can adjust the outer rear view mirror  
+manually by joy stick knob located in the  
+driver’s and front passenger’s door panel. 146
+ORVM FOLDING (if equipped) 
+Option 1: Manual Folding 
+ORVMs can be folded or unfolded manu -
+ally. This is applicable only for vehicles  
+which are not equipped with motorized  
+folding provision. 
+Option 2: Auto Folding by Smart Key 
+When you lock the vehicle, ORVMs will be 
+folded automatically.  
+When you unlock the vehicle, ORVMs will 
+be unfolded automatically.  
+In case to repeated usage, Mirror Fold -
+ing/Un-folding will stop functioning and will 
+be re-activated after delay of 2 min. During 
+that period avoid repeated pressing of  
+Switch. 
+Option 3: Auto Folding by Knob 
+To fold / unfold the ORVMs, keep the Se-
+lector switch in center position (i.e. neither 
+‘L’ nor ‘R, position) and then toggle down. 
+This will operate when the ignition switch  
+is in the “ACC” or “ON” position. 
+Option 4: Rear View Mirror with Joy -
+stick Knob 
+You can adjust the outer rear view mirror  
+manually by joy stick knob located in the  
+driver’s and front passenger’s door panel. accelerate the vehicle to a speed is as per 
+gear selected as below: 
+3rd gear approx. 30Kmph to 80Kmph 
+4th gear approx. 40kmph to 120Kmph 
+5th gear approx. 50kmph to 140Kmph 
+Cruise Control Deactivating Switch 
+There are two ways to deactivate cruise  
+control: 
+Applying brake / clutch.•
+Press 
+deactivation switch on •
+Steering Wheel
+Changing The Set Cruise Speed 
+The set cruise speed can be adjusted  
+using the switches ‘Speed increase/ Re -
+sume’ (to increase)  or ‘Speed de-
+crease/Set’ (to decrease) on 
+steering wheel. 
+The speed increases and decreases on a 
+single press.  
+The changed speed will be shown on the  
+speedometer.  
+Keeping the switch pressed increases or  
+decreases the speed continuously till the  
+switch is released or maximum/ minimum 
+speed limit for particular gear is reached.  
+The set speed can also be increased by  
+pressing the accelerator pedal till the de-
+sired speed is achieved and then pressing 
+the ‘SET’ button. accelerate the vehicle to a speed is as per 
+gear selected as below: 
+3rd gear approx. 30Kmph to 80Kmph 
+4th gear approx. 40kmph to 120Kmph 
+5th gear approx. 50kmph to 140Kmph 
+Cruise Control Deactivating Switch 
+There are two ways to deactivate cruise  
+control: 
+Applying brake / clutch.•
+Press 
+deactivation switch on •
+Steering Wheel
+Changing The Set Cruise Speed 
+The set cruise speed can be adjusted  
+using the switches ‘Speed increase/ Re -
+sume’ (to increase)  or ‘Speed de-
+crease/Set’ (to decrease) on 
+steering wheel. 
+The speed increases and decreases on a 
+single press.  
+The changed speed will be shown on the  
+speedometer.  
+Keeping the switch pressed increases or  
+decreases the speed continuously till the  
+switch is released or maximum/ minimum 
+speed limit for particular gear is reached.  
+The set speed can also be increased by  
+pressing the accelerator pedal till the de-
+sired speed is achieved and then pressing 
+the ‘SET’ button.",0.0,1.0,1.0,0.0
+4,There is yellow light what it indicates?,"['tainment/navigation system, set and\nmake \nchanges to your travel route only\nwhen the vehicle is parked.\nProgram \nradio presets with the vehicle•\nparked, \nand use your programmed\npresets \nto make radio use quicker and\nsimpler\n.\nDriving in Adverse Condition \nDriving Through Water \nDo not drive through flooded areas. Judge \nthe depth of water before driving through  \nit. Otherwise, water may enter the vehicle \ninterior or the motor compartment. \nObserve water level and speed. Do not ex-\nceed the maximum water level and maxi -\nmum speed; otherwise, the vehicle’s  \nmotor, the electrical systems and the  \ntransmission may be damaged. Drive  \nthough calm water only and only if it is not \ndeeper than 300mm and at this depth,  \nmaintain vehicle speed up to 15kmph. \nFlowing or rushing water creates strong  \nforces. Driving through flowing water could \naffect the dynamics of the vehicle. If at all \nthe situation demands that you have to  \ndrive through water then:', 'tainment/navigation system, set and\nmake \nchanges to your travel route only\nwhen the vehicle is parked.\nProgram \nradio presets with the vehicle•\nparked, \nand use your programmed\npresets \nto make radio use quicker and\nsimpler\n.\nDriving in Adverse Condition \nDriving Through Water \nDo not drive through flooded areas. Judge \nthe depth of water before driving through  \nit. Otherwise, water may enter the vehicle \ninterior or the motor compartment. \nObserve water level and speed. Do not ex-\nceed the maximum water level and maxi -\nmum speed; otherwise, the vehicle’s  \nmotor, the electrical systems and the  \ntransmission may be damaged. Drive  \nthough calm water only and only if it is not \ndeeper than 300mm and at this depth,  \nmaintain vehicle speed up to 15kmph. \nFlowing or rushing water creates strong  \nforces. Driving through flowing water could \naffect the dynamics of the vehicle. If at all \nthe situation demands that you have to  \ndrive through water then:', 'leave the Puncture repair Kit un-•\nattended while in use.\nDo not keep the compressor operating•\nfor \nmore than 10 minutes otherwise\nthere is a risk of it over-heating.\nReplace \nthe sealant bottle with a new•\none \nbefore the expiration date is\nreached \n(see bottle label). In case that\nthe \nsealant is expired the functionality\ncannot \nbe fully guaranteed. Only use\noriginal \nPuncture re-pair Kit bottles\nwhich are pressure resistant.\nHow To Proceed In The Event Of Tyre \nPuncture \nYou can temporarily repair a tire puncture \nin two steps. \nFirst pump the tire sealant and air into the \ntire (see Step 1). Immediately thereafter,  \ndrive a short distance (3-10 km / 2-6 miles) \nin order to distribute the sealant in the tire. \nAfter that, check the tire pressure and  \npump more air into the tire if necessary  \n(see Step 2). Then you can proceed to  \ndrive with caution for a maximum distance \nof 200 km (120 miles) and at a maxi-mum \nspeed of 80 km/h (50 mph).', 'leave the Puncture repair Kit un-•\nattended while in use.\nDo not keep the compressor operating•\nfor \nmore than 10 minutes otherwise\nthere is a risk of it over-heating.\nReplace \nthe sealant bottle with a new•\none \nbefore the expiration date is\nreached \n(see bottle label). In case that\nthe \nsealant is expired the functionality\ncannot \nbe fully guaranteed. Only use\noriginal \nPuncture re-pair Kit bottles\nwhich are pressure resistant.\nHow To Proceed In The Event Of Tyre \nPuncture \nYou can temporarily repair a tire puncture \nin two steps. \nFirst pump the tire sealant and air into the \ntire (see Step 1). Immediately thereafter,  \ndrive a short distance (3-10 km / 2-6 miles) \nin order to distribute the sealant in the tire. \nAfter that, check the tire pressure and  \npump more air into the tire if necessary  \n(see Step 2). Then you can proceed to  \ndrive with caution for a maximum distance \nof 200 km (120 miles) and at a maxi-mum \nspeed of 80 km/h (50 mph).']","The yellow light is typically used for warning or cautionary purposes, but in this context, there is no specific indication.","tainment/navigation system, set and
+make 
+changes to your travel route only
+when the vehicle is parked.
+Program 
+radio presets with the vehicle•
+parked, 
+and use your programmed
+presets 
+to make radio use quicker and
+simpler
+.
+Driving in Adverse Condition 
+Driving Through Water 
+Do not drive through flooded areas. Judge 
+the depth of water before driving through  
+it. Otherwise, water may enter the vehicle 
+interior or the motor compartment. 
+Observe water level and speed. Do not ex-
+ceed the maximum water level and maxi -
+mum speed; otherwise, the vehicle’s  
+motor, the electrical systems and the  
+transmission may be damaged. Drive  
+though calm water only and only if it is not 
+deeper than 300mm and at this depth,  
+maintain vehicle speed up to 15kmph. 
+Flowing or rushing water creates strong  
+forces. Driving through flowing water could 
+affect the dynamics of the vehicle. If at all 
+the situation demands that you have to  
+drive through water then: tainment/navigation system, set and
+make 
+changes to your travel route only
+when the vehicle is parked.
+Program 
+radio presets with the vehicle•
+parked, 
+and use your programmed
+presets 
+to make radio use quicker and
+simpler
+.
+Driving in Adverse Condition 
+Driving Through Water 
+Do not drive through flooded areas. Judge 
+the depth of water before driving through  
+it. Otherwise, water may enter the vehicle 
+interior or the motor compartment. 
+Observe water level and speed. Do not ex-
+ceed the maximum water level and maxi -
+mum speed; otherwise, the vehicle’s  
+motor, the electrical systems and the  
+transmission may be damaged. Drive  
+though calm water only and only if it is not 
+deeper than 300mm and at this depth,  
+maintain vehicle speed up to 15kmph. 
+Flowing or rushing water creates strong  
+forces. Driving through flowing water could 
+affect the dynamics of the vehicle. If at all 
+the situation demands that you have to  
+drive through water then: leave the Puncture repair Kit un-•
+attended while in use.
+Do not keep the compressor operating•
+for 
+more than 10 minutes otherwise
+there is a risk of it over-heating.
+Replace 
+the sealant bottle with a new•
+one 
+before the expiration date is
+reached 
+(see bottle label). In case that
+the 
+sealant is expired the functionality
+cannot 
+be fully guaranteed. Only use
+original 
+Puncture re-pair Kit bottles
+which are pressure resistant.
+How To Proceed In The Event Of Tyre 
+Puncture 
+You can temporarily repair a tire puncture 
+in two steps. 
+First pump the tire sealant and air into the 
+tire (see Step 1). Immediately thereafter,  
+drive a short distance (3-10 km / 2-6 miles) 
+in order to distribute the sealant in the tire. 
+After that, check the tire pressure and  
+pump more air into the tire if necessary  
+(see Step 2). Then you can proceed to  
+drive with caution for a maximum distance 
+of 200 km (120 miles) and at a maxi-mum 
+speed of 80 km/h (50 mph). leave the Puncture repair Kit un-•
+attended while in use.
+Do not keep the compressor operating•
+for 
+more than 10 minutes otherwise
+there is a risk of it over-heating.
+Replace 
+the sealant bottle with a new•
+one 
+before the expiration date is
+reached 
+(see bottle label). In case that
+the 
+sealant is expired the functionality
+cannot 
+be fully guaranteed. Only use
+original 
+Puncture re-pair Kit bottles
+which are pressure resistant.
+How To Proceed In The Event Of Tyre 
+Puncture 
+You can temporarily repair a tire puncture 
+in two steps. 
+First pump the tire sealant and air into the 
+tire (see Step 1). Immediately thereafter,  
+drive a short distance (3-10 km / 2-6 miles) 
+in order to distribute the sealant in the tire. 
+After that, check the tire pressure and  
+pump more air into the tire if necessary  
+(see Step 2). Then you can proceed to  
+drive with caution for a maximum distance 
+of 200 km (120 miles) and at a maxi-mum 
+speed of 80 km/h (50 mph).",0.0,1.0,0.3333333333333333,0.0
